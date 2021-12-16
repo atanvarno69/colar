@@ -1,0 +1,22 @@
+{
+  "name": "colar/colar",
+  "type": "library",
+  "homepage": "https://github.com/atanvarno69/colar",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "atanvarno69",
+      "homepage": "https://github.com/atanvarno69"
+    }
+  ],
+  "require": {
+    "php": "^8.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Colar\\Colar\\": "src"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
